@@ -1,7 +1,0 @@
-# (PhApps)
-# > Gcash
-DOMAIN-SUFFIX,m.gcash.com
-DOMAIN-keyword,gcash
-# > Paymaya
-DOMAIN-SUFFIX,api.paymaya.com
-DOMAIN-keyword,paymaya
