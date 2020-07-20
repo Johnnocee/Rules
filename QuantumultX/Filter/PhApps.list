@@ -1,7 +1,7 @@
 # (PhApps)
 # > Gcash
-USER-AGENT,gcash,PhApps
-DOMAIN-keyword,gcash,PhApps
+USER-AGENT,gcash
+DOMAIN-keyword,gcash
 # > Paymaya
-USER-AGENT,paymaya,PhApps
-DOMAIN-keyword,paymaya,PhApps
+USER-AGENT,paymaya
+DOMAIN-keyword,paymaya
