@@ -1,0 +1,6 @@
+# > Gcash
+USER-AGENT,GCash,PhApps
+DOMAIN-keyword,GCash,PhApps
+# > Paymaya
+USER-AGENT,PayMaya,PhApps
+DOMAIN-keyword,PayMaya,PhApps
