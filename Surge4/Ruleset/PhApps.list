@@ -1,7 +1,0 @@
-# (PhApps)
-# > Gcash
-USER-AGENT,GCash/389 CFNetwork/1128.0.1 Darwin/19.6.0
-DOMAIN-keyword,gcash
-# > Paymaya
-USER-AGENT,PayMaya/652 CFNetwork/1128.0.1 Darwin/19.6.0
-DOMAIN-keyword,paymaya
