@@ -1,0 +1,7 @@
+# (PhApps)
+# > Gcash
+USER-AGENT,gcash*
+DOMAIN-KEYWORD,gcash
+# > Paymaya
+USER-AGENT,paymaya*
+DOMAIN-KEYWORD,paymaya
